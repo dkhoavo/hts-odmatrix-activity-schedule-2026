@@ -10,7 +10,7 @@ This repository contains a transparent and reproducible pipeline for reconstruct
   Contains simulation outputs, intermediate results, and figures.
 
 - `tour_gen_encoder_re1_release.ipynb`  
-  Generates the Seoul activity schedules reported in the manuscript. This notebook is provided for transparency.
+  Generates the Singapore and Seoul activity schedules reported in the manuscript. This notebook is provided for transparency.
 
 - `val_tour_gen_encoder_re1_release.ipynb`  
   Generates activity schedules for the controlled experiments reported in the manuscript. The simulated data are provided in the `data` folder.
